@@ -36,8 +36,8 @@ int wait = 70; // In milliseconds
 
 int spacer = 1;
 int width  = 5 + spacer; // The font width is 5 pixels
-const char *ssid      = "bbk2";
-const char *password  = "internet2";
+const char *ssid      = "wifi_network";
+const char *password  = "password";
 byte w = 0; 
 /*
 char zi[7] = { 'Luni', 'Marti', 'Miercuri', 'Joi', 'Vineri', 'Sambata', 'Duminica' };
