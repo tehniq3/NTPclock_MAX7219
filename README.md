@@ -5,3 +5,8 @@ config local zone: https://github.com/nayarsystems/posix_tz_db/blob/master/zones
 format time as string: http://www.cplusplus.com/reference/ctime/strftime/
 
 Max72xxPanel library: https://github.com/markruys/arduino-Max72xxPanel
+
+my article: https://nicuflorica.blogspot.com/2019/09/ceas-matriceal-animat-cu-date-din.html
+
+![test](https://1.bp.blogspot.com/-92JweQ6srxo/XX5KHSWxY8I/AAAAAAAAaNo/bw2lixGu8vkjTpUnhI1Yh8i83lx2cLigwCLcBGAsYHQ/s1600/IMG_20190915_150142.jpg)
+
