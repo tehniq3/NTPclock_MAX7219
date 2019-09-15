@@ -117,7 +117,7 @@ void loop() {
   matrix.write(); // Send bitmap to display
   delay(500);
   w = w + 1;
-   if (w > 10)
+   if (w > 120)
    {
  //  String date = get_data();
  //  display_message(date); // Display time in format 'Wed, Mar 01 16:03:20 2017
